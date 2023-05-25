@@ -1,3 +1,3 @@
 # Curso Digital: Git
 
-## Gravando mudanças no repositório. 
+## Tentando colocar no GitHub.
