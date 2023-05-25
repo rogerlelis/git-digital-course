@@ -1,4 +1,4 @@
-# Curso Digital: Git
+# Curso Digital: Git/Versionamento
 
 ## Tentando colocar no GitHub.
 
