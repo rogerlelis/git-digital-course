@@ -1,5 +1,5 @@
 # Curso Digital: Git/Versionamento
 
-## Tentando colocar no GitHub.
+## Enfim no GitHub
 
 ### Salvando Novas Modificações.
