@@ -1,5 +1,3 @@
-# Curso Digital: Git/Versionamento
+# Curso Digital: Git
 
-## Enfim no GitHub
-
-### Salvando Novas Modificações.
+## Log e Restore
